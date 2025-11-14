@@ -62,9 +62,6 @@ Scientific_Computing_homework/
 - **Numerical Analysis (3rd Edition)** - T. Sauer, Pearson, 2018
 - **Matrix Computations (4th Edition)** - Golub & van Loan, 2013
 
-## Programming Environment
-
-- **MATLAB**: Primary programming language for computational assignments
 
 ## Acknowledgments
 
