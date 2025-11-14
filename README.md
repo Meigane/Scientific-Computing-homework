@@ -46,13 +46,9 @@ This repository contains homework assignments for the [**Scientific Computing**]
 ```
 Scientific_Computing_homework/
 ├── README.md
-├── homework1/          # Introduction to Scientific Computing
-├── homework2/          # Nonlinear Equations
-├── homework3/          # Direct Methods for Linear Systems
-├── homework4/          # Iterative Methods for Linear Systems
-├── homework5/          # Least Squares Problems
-├── homework6/          # Function Interpolation
-└── homework7/          # Numerical Integration & Differentiation
+├── hw1/                # Nonlinear Equations
+├── hw2/                # Direct Methods for Linear Systems
+└── hw3/                # Iterative Methods for Linear Systems
 ```
 
 ## Key References
